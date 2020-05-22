@@ -12,8 +12,6 @@
 	<li>os</li>
 </ol>
 
-<p>&nbsp;</p>
-
 <p>k&uuml;t&uuml;phanelerin kurulumu i&ccedil;in cmd &uuml;zerinden sırasıyla;</p>
 <p>
 pip install speech_recognition<br>
