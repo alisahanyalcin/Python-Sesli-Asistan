@@ -1,5 +1,4 @@
 # Python Sesli Asistan
-Bu projede speech_recognition ve playsound kütüphaneleri büyük önem taşımaktadır
 
 <p>Kullandığım k&uuml;t&uuml;phaneler;</p>
 
