@@ -1,10 +1,10 @@
+"""
+@author: alisahanyalcin
+"""
 #Gerekli Kütüphanelerimizi Dahil ediyoruz
 from datetime import datetime
 from gtts import gTTS
 from playsound import playsound
-"""
-@author: alisahanyalcin
-"""
 import speech_recognition as sr
 import webbrowser
 import random
