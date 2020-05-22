@@ -17,8 +17,8 @@ Bu projede speech_recognition ve playsound kütüphaneleri büyük önem taşım
 
 <p>k&uuml;t&uuml;phanelerin kurulumu i&ccedil;in cmd &uuml;zerinden sırasıyla;</p>
 <p>
-pip install speech_recognition
-pip install playsound
-pip install webbrowser
+pip install speech_recognition<br>
+pip install playsound<br>
+pip install webbrowser<br>
 </p>
 <p>yazmanız yeterli olacaktır, keyifli kullanımlar</p>
